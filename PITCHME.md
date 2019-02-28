@@ -16,6 +16,9 @@
   * 12V buck regulator
 * Display
 * Keyboard & mouse
+* Radio, preferrably with a mini din6 data port
+* Storage device 8, 16 or 32GB micro SD card
+* Power: 12V battery/power supply
 
 #HSLIDE
 ### Raspberry Pi
