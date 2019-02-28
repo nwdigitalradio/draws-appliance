@@ -18,15 +18,28 @@
 * Keyboard & mouse
 
 #HSLIDE
-### Keyboard & mouse
-![](assets/img_2479_8b6.jpg)
+### Raspberry Pi
+* Small single board computer developed in UK
+* Originally released Feb. 29, 2016
+* 19M sold by March 2018
+* Manufactured in Wales, China & Japan
+* Features a Broadcom system on a chip (SoC)
+  * ARM compatible CPU
+
+#HSLIDE
+### Raspberry Pi
+![7" Displays](assets/img_2475_8b6.jpg)
+
+#HSLIDE
+### Raspberry Pi - from the bottom
+![7" Displays](assets/img_2477_8b6.jpg)
 
 #HSLIDE
 ### Displays
 
 * 7" Raspberry Pi Touchscreen
   * 800 x 480
-* 7"Sunfounder
+* 7" Sunfounder
   *  1024 x600
 * 10" Sunfounder
   * 1280 x 800
@@ -59,18 +72,13 @@
 ![7" Displays](assets/img_2473_8b6.jpg)
 
 #HSLIDE
-### Raspberry Pi
-![7" Displays](assets/img_2475_8b6.jpg)
-
-#HSLIDE
-### Raspberry Pi - from the bottom
-![7" Displays](assets/img_2477_8b6.jpg)
+### Keyboard & mouse
+![](assets/img_2479_8b6.jpg)
 
 #HSLIDE
 ### What Can I do with it?
 
 ##### Packet
-##### Digital Voice - DStar
 ##### Other digital modes
 
 #HSLIDE
@@ -82,10 +90,6 @@
 * APRS - Automatic Packet Reporting System
   * Xastir
   * YAAC - Yet Another APRS Client
-
-#HSLIDE
-
-#### Digital Voice - DStar
 
 #HSLIDE
 
