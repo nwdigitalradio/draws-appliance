@@ -6,8 +6,22 @@
 ###### https://gitpitch.com/nwdigitalradio/draws-appliance
 ###### https://github.com/nwdigitalradio/draws-appliance
 
+#HSIDE
+### Appliance components
+* Raspberry Pi 3 Model B+
+  * current latest
+* Draws - Rasberry Pi HAT
+  * High performance sound chip (CODEC)
+  * GPS with pulse per second
+  * 12V buck regulator
+* Display
+* Keyboard & mouse
+
 #HSLIDE
-## Display Resolutions
+### Keyboard & mouse
+
+#HSLIDE
+### Displays
 
 * 7" Raspberry Pi Touchscreen
   * 800 x 480
@@ -50,3 +64,29 @@
 #HSLIDE
 ### Raspberry Pi - from the bottom
 ![7" Displays](assets/img_2477_8b6.jpg)
+
+### What Can I do with it?
+
+##### Packet
+##### DStar
+##### Other digital modes
+
+#HSLIDE
+
+### Packet
+* Winlink
+* Keyboard to keyboard
+* Connected mode to BBS
+* APRS - Automatic Packet Reporting System
+  * Xastir
+  * YAAC - Yet Another APRS Client
+
+#HSLIDE
+
+
+#HSLIDE
+
+### Other Digital modes (mostly HF)
+* js8call
+* wsjt-x
+* fldigi
