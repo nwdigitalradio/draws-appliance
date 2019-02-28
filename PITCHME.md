@@ -10,14 +10,14 @@
 ### Appliance components
 * Raspberry Pi 3 Model B+ ($38)
   * current latest
-* Draws - Rasberry Pi HAT
+* Draws - Rasberry Pi HAT ($150)
   * High performance sound chip (CODEC)
   * GPS with pulse per second
   * 12V buck regulator
 * Display ($111)
-* Keyboard & mouse (
-* Radio, preferrably with a mini din6 data port
-* Storage device 8, 16 or 32GB micro SD card
+* Keyboard & mouse ($60)
+* Radio, preferably with a mini din6 data port
+* Storage device 8, 16 or 32GB micro SD card ($5.75)
 * Power: 12V battery/power supply
 
 #HSLIDE
@@ -68,6 +68,8 @@
 ## 10" Display front
 ![7" Displays](assets/img_2471_8b6.jpg)
 
+* Hactar - A giant spaceborne supercomputer built by the Silastic Armorfiends of Striterax.
+
 #HSLIDE
 ### 10" Display back
 ![7" Displays](assets/img_2472_8b6.jpg)
@@ -87,7 +89,7 @@
 #HSLIDE
 ### micro SD Card
 * mSD card images available with many HAM apps pre-installed.
-![](assets/img_2479_8b6.jpg)
+![](assets/img_2480_8b6.jpg)
 
 #HSLIDE
 ### What Can I do with it?
@@ -98,8 +100,8 @@
 #HSLIDE
 
 ### Packet
-* Winlink
-* Keyboard to keyboard
+* Winlink email via radio
+* Keyboard to keyboard chat
 * Connected mode to BBS
 * APRS - Automatic Packet Reporting System
   * Xastir
@@ -114,4 +116,4 @@
 
 #HSLIDE
 
-#### Questions/Discussion
+### Questions/Discussion
