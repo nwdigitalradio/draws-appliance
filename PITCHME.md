@@ -18,30 +18,35 @@
 * My workstation 5120x1440
 
 #HSLIDE
-## 7" Displays
+### 7" Displays
 * Raspberry Pi 7" Touchscreen LCD Dispaly
 * SmartPi Touch Case for Raspberry Pi
 ![7" Displays](assets/img_2467_8b6.jpg)
 
 #HSLIDE
-
+### 7" Displays From the back
 ![7" Displays](assets/img_2468_8b6.jpg)
+
 #HSLIDE
-## 7" Displays From the back
+### 7" Displays Again
 ![7" Displays](assets/img_2470_8b6.jpg)
 #HSLIDE
-## 7" Displays Again
+## 10" Display front
 ![7" Displays](assets/img_2471_8b6.jpg)
+
 #HSLIDE
-## 10" Display front
+### 10" Display back
 ![7" Displays](assets/img_2472_8b6.jpg)
+
 #HSLIDE
-## 10" Display front
+### Draws board with GPS antenna attached
 
 ![7" Displays](assets/img_2473_8b6.jpg)
-#HSLIDE
 
+#HSLIDE
+### Raspberry Pi
 ![7" Displays](assets/img_2475_8b6.jpg)
-#HSLIDE
 
+#HSLIDE
+### Raspberry Pi - from the bottom
 ![7" Displays](assets/img_2477_8b6.jpg)
