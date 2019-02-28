@@ -6,7 +6,7 @@
 ###### https://gitpitch.com/nwdigitalradio/draws-appliance
 ###### https://github.com/nwdigitalradio/draws-appliance
 
-#HSIDE
+#HSLIDE
 ### Appliance components
 * Raspberry Pi 3 Model B+
   * current latest
@@ -19,6 +19,7 @@
 
 #HSLIDE
 ### Keyboard & mouse
+![](assets/img_2479_8b6.jpg)
 
 #HSLIDE
 ### Displays
@@ -65,10 +66,11 @@
 ### Raspberry Pi - from the bottom
 ![7" Displays](assets/img_2477_8b6.jpg)
 
+#HSLIDE
 ### What Can I do with it?
 
 ##### Packet
-##### DStar
+##### Digital Voice - DStar
 ##### Other digital modes
 
 #HSLIDE
@@ -83,6 +85,7 @@
 
 #HSLIDE
 
+#### Digital Voice - DStar
 
 #HSLIDE
 
