@@ -8,14 +8,14 @@
 
 #HSLIDE
 ### Appliance components
-* Raspberry Pi 3 Model B+
+* Raspberry Pi 3 Model B+ ($38)
   * current latest
 * Draws - Rasberry Pi HAT
   * High performance sound chip (CODEC)
   * GPS with pulse per second
   * 12V buck regulator
-* Display
-* Keyboard & mouse
+* Display ($111)
+* Keyboard & mouse (
 * Radio, preferrably with a mini din6 data port
 * Storage device 8, 16 or 32GB micro SD card
 * Power: 12V battery/power supply
@@ -23,7 +23,10 @@
 #HSLIDE
 ### Raspberry Pi
 * Small single board computer developed in UK
-* Originally released Feb. 29, 2016
+* Originally released Feb. 29, 2012
+  * Several generations have been released
+  * Raspberry Pi 1 Model B
+  * Raspberry Pi 3 Model B+
 * 19M sold by March 2018
 * Manufactured in Wales, China & Japan
 * Features a Broadcom system on a chip (SoC)
@@ -50,7 +53,7 @@
 
 #HSLIDE
 ### 7" Displays
-* Raspberry Pi 7" Touchscreen LCD Dispaly
+* Raspberry Pi 7" Touchscreen LCD Display
 * SmartPi Touch Case for Raspberry Pi
 ![7" Displays](assets/img_2467_8b6.jpg)
 
@@ -76,6 +79,14 @@
 
 #HSLIDE
 ### Keyboard & mouse
+* Logitech Living-Room Keyboard k830 ($60)
+* Logitech Wireless mouse ($17)
+* Logitech Keys-to-Go ($45)
+![](assets/img_2479_8b6.jpg)
+
+#HSLIDE
+### micro SD Card
+* mSD card images available with many HAM apps pre-installed.
 ![](assets/img_2479_8b6.jpg)
 
 #HSLIDE
@@ -100,3 +111,7 @@
 * js8call
 * wsjt-x
 * fldigi
+
+#HSLIDE
+
+#### Questions/Discussion
