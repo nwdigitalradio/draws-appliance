@@ -11,9 +11,6 @@
 * Raspberry Pi 3 Model B+ ($38)
   * current latest
 * Draws - Rasberry Pi HAT ($150)
-  * High performance sound chip (CODEC)
-  * GPS with pulse per second
-  * 12V buck regulator
 * Display ($111)
 * Keyboard & mouse ($60)
 * Radio, preferably with a mini din6 data port
@@ -73,6 +70,17 @@
 #HSLIDE
 ### 10" Display back
 ![7" Displays](assets/img_2472_8b6.jpg)
+
+#HSLIDE
+### DRAWS Raspberry Pi HAT
+* High performance sound chip (CODEC)
+* GPS with pulse per second
+* 12V buck regulator
+* 2 mini Din6 connectors
+* 8 pin accessory port
+  * 2 A/D ports
+  * Serial port
+  * 2 GPIO
 
 #HSLIDE
 ### Draws board with GPS antenna attached
