@@ -61,11 +61,12 @@
 #HSLIDE
 ### 7" Displays Again
 ![7" Displays](assets/img_2470_8b6.jpg)
-#HSLIDE
-## 10" Display front
-![7" Displays](assets/img_2471_8b6.jpg)
 
+#HSLIDE
+### 10" Display front
 * Hactar - A giant spaceborne supercomputer built by the Silastic Armorfiends of Striterax.
+
+![7" Displays](assets/img_2471_8b6.jpg)
 
 #HSLIDE
 ### 10" Display back
